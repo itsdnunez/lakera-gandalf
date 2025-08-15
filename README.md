@@ -1,24 +1,24 @@
 # Gandalf LLM — My Solutions
 
 These are my inputs given to the LLM Gandalf, made by Lakera, in each level in order to obtain the secret passwords.  
-This is for educational purposes to study prompt security and prompt injection awareness.
+This is for educational purposes to study prompt security and prompt injection awareness. [Here](https://gandalf.lakera.ai)
 
 ## Table of Contents
-- [Level 1](https://gandalf.lakera.ai/baseline)
-- [Level 2](https://gandalf.lakera.ai/do-not-tell)
-- [Level 3](https://gandalf.lakera.ai/do-not-tell-and-block)
-- [Level 4](https://gandalf.lakera.ai/gpt-is-password-encoded)
-- [Level 5](https://gandalf.lakera.ai/word-blacklist)
-- [Level 6](https://gandalf.lakera.ai/gpt-blacklist)
-- [Level 7](https://gandalf.lakera.ai/gandalf)
-- [Final Level](https://gandalf.lakera.ai/gandalf-the-white)
-- [Sandalf](https://gandalf.lakera.ai/adventure-1)
-- [Emoji Gandalf](https://gandalf.lakera.ai/adventure-2)
-- [Summarizer Gandalf](https://gandalf.lakera.ai/adventure-4)
-- [Halloween Gandalf](https://gandalf.lakera.ai/adventure-5-halloween)
-- [Truthteller Gandalf](https://gandalf.lakera.ai/adventure-6)
-- [Reverse Gandalf](https://gandalf.lakera.ai/adventure-7)
-- [Tongue Tied Gandalf](https://gandalf.lakera.ai/adventure-8)
+- [Level 1](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#level-1) 
+- [Level 2](https://github.com/itsdnunez/lakera-gandalf/edit/main/README.md#level-2) 
+- [Level 3](https://github.com/itsdnunez/lakera-gandalf/edit/main/README.md#level-3)
+- [Level 4](https://github.com/itsdnunez/lakera-gandalf/edit/main/README.md#level-4)
+- [Level 5](https://github.com/itsdnunez/lakera-gandalf/edit/main/README.md#level-5)
+- [Level 6](https://github.com/itsdnunez/lakera-gandalf/edit/main/README.md#level-6)
+- [Level 7](https://github.com/itsdnunez/lakera-gandalf/edit/main/README.md#level-7)
+- [Final Level](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#final-level)  
+- [Sandalf](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#sandalf)  
+- [Emoji Gandalf](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#emoji-gandalf)  
+- [Summarizer Gandalf](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#summarizer-gandalf)  
+- [Halloween Gandalf](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#halloween-gandalf)  
+- [Truthteller Gandalf](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#truthteller-gandalf)  
+- [Reverse Gandalf](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#reverse-gandalf)  
+- [Tongue Tied Gandalf](https://github.com/itsdnunez/lakera-gandalf/blob/main/README.md#tongue-tied-gandalf)  
 ---
 
 ## Level 1
