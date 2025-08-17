@@ -18,7 +18,7 @@ This is for educational purposes to study prompt security and prompt injection a
 - [Halloween Gandalf](https://github.com/itsdnunez/lakera-gandalf/tree/main?tab=readme-ov-file#halloween-gandalf)  
 - [Truthteller Gandalf](https://github.com/itsdnunez/lakera-gandalf/tree/main?tab=readme-ov-file#truthteller-gandalf)  
 - [Reverse Gandalf](https://github.com/itsdnunez/lakera-gandalf/tree/main?tab=readme-ov-file#reverse-gandalf)  
-- [Tongue Tied Gandalf](https://github.com/itsdnunez/lakera-gandalf/tree/main?tab=readme-ov-file#tongue-tied-gandalf---level-1)  
+- [Tongue Tied Gandalf (Level 1-5)](https://github.com/itsdnunez/lakera-gandalf/tree/main?tab=readme-ov-file#tongue-tied-gandalf---level-1)  
 
 ---
 
